@@ -9,7 +9,7 @@ This [file](SQL%20query) shows how to query the SQL database to answer a busines
 This [file](Common%20Table%20Expression) exemplifies the use of CTE in a SQL querry to answer the same business question as in SQL query file.
 
 ## Tableau report
-I have also prepared an analysis of the platform sales data and visualized it in Tableau:
+I have also prepared an analysis of the platform sales data and visualized it in Tableau:  
 [Top movie categories](https://public.tableau.com/app/profile/joanna.kaczanowska.g.tz/viz/Top_categories/categories)  
 [Top countries](https://public.tableau.com/app/profile/joanna.kaczanowska.g.tz/viz/Rockbuster_data/top10_countries)  
 [Top cities](https://public.tableau.com/app/profile/joanna.kaczanowska.g.tz/viz/Top10cities_17134390476070/top10cities)  
