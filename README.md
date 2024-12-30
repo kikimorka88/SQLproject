@@ -2,11 +2,11 @@
 The aim of the projest was to answer some busines questions about online movie rental platform in order to prepare and introduce a new product. For this, a SQL database needed to be querried.
 Here, I provide a few examples of such querries performed to answer specific busines questions.
 
-## The Common Table Expression file 
-This file exemplifies the use of CTE in a SQL querry to answer a busines question how to find the average amount paid by the top 5 customers.
-
 ## The SQL querry file
-This file
+This file shows how to query the SQL database to answer a busines question how to find the average amount paid by the top 5 customers.
+
+## The Common Table Expression file 
+This file exemplifies the use of CTE in a SQL querry to answer the same busines question as in SQL query file.
 
 ## Tableau report
 I have also prepared an analysis of the platform sales data and visualized it in Tableau:
