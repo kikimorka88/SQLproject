@@ -6,7 +6,7 @@ Here, I provide a few examples of such querries performed to answer specific bus
 This [file](SQL%20query) shows how to query the SQL database to answer a busines question how to find the average amount paid by the top 5 customers.
 
 ## The Common Table Expression file 
-This [file]() exemplifies the use of CTE in a SQL querry to answer the same busines question as in SQL query file.
+This [file](Common%20Table%20Expression) exemplifies the use of CTE in a SQL querry to answer the same busines question as in SQL query file.
 
 ## Tableau report
 I have also prepared an analysis of the platform sales data and visualized it in Tableau:
